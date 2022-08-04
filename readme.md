@@ -7,7 +7,7 @@ Now lets come back to my Project It is a simple calculator which perform all ari
 
 ## Demo
 
-<-Project demo video url->
+https://jeevan1310.github.io/jscalcalculator/
 
 ## About html
 - I just created a class with container
@@ -16,4 +16,9 @@ Now lets come back to my Project It is a simple calculator which perform all ari
 - buttons are made using  onclick functions like clearScreen(),Display(),Solve()
 
 ## about functions
+
+Function 1:
+
+Function 2:
+
 <--Will complete later>
